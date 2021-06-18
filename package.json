@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "mongoose": "^5.5.11",
     "split-html": "^1.0.2",
-    "striptags": "^3.1.1",
+    "striptags": "^3.2.0",
     "xml2js": "^0.4.19"
   }
 }
