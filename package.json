@@ -12,7 +12,7 @@
     "cheerio": "^1.0.0-rc.3",
     "consolidate": "^0.15.1",
     "ejs": "^2.6.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.5.11",
     "split-html": "^1.0.2",
     "striptags": "^3.1.1",
